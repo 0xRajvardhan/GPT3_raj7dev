@@ -51,7 +51,7 @@
         line-height: 22px;
     }
 
-    .gpt3__features-container_feature-text p {
+    .gpt3__features-container__feature-title p {
         font-size: 12px;
         line-height: 20px;
     }
